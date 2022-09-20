@@ -29,3 +29,11 @@ En esta materia aprendemos python y flask, para crear páginas web.
 Profesor: Jonathan Miranda
 
 En esta materia aprendemos sobre la red y sobre el uso de Git.
+
+<br>
+
+## Diseño de Videojuegos:
+
+Profesor: Eduardo Guerrero
+
+En esta materia aprendemos como diseñar videojuegos para que le resulten divertidos y entretenidos a los jugadores.
