@@ -21,3 +21,11 @@ En esta materia aprendemos a usar Photoshop e Ilustrator, así como conceptos b�
 Profesor: Fernando García
 
 En esta materia aprendemos python y flask, para crear páginas web. 
+
+<br>
+
+## Sistemas Operativos y Redes
+
+Profesor: Jonathan Miranda
+
+En esta materia aprendemos sobre la red y sobre el uso de Git.
